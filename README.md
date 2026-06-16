@@ -7,4 +7,4 @@ também vai ter alguns projetos feitos por mim para praticar os conceitos do cur
 Ex: 
 Nome do projeto - POO - Treino
 
-obs: os projetos estaram em .zip
+obs: os projetos estão projetos .zip
